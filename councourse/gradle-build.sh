@@ -2,4 +2,4 @@
 
 export TERM=${TERM:-dumb}
 
-./gradlew build -x test
+source\ code/gradlew build -x test
